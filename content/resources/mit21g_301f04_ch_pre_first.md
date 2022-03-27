@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c5cfbfca-c593-0461-0d26-864fd8574ef1
 resourcetype: Document
 title: 'ACTIVITE: ON LIT UN JOURNAL FRANCAIS'
 uid: 175c640d-1ef1-abd5-fc6b-1f012abcdd90

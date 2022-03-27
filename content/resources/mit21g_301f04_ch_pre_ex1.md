@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c5cfbfca-c593-0461-0d26-864fd8574ef1
 resourcetype: Document
 title: "ACTIVIT\xC9: RENCONTRES DANS LA RUE"
 uid: 0a7220ef-22f6-6409-ec8c-eae310ea6556

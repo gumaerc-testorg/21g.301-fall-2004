@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c5cfbfca-c593-0461-0d26-864fd8574ef1
 resourcetype: Document
 title: "ACTIVIT\xC9: MES JOURS ET MES MOIS PREFERES"
 uid: 67c7922c-166d-29db-b281-f977b5855120

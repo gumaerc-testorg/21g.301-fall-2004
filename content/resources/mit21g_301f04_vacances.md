@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c5cfbfca-c593-0461-0d26-864fd8574ef1
 resourcetype: Document
 title: Journal de vacances
 uid: 9b9b1ccd-d4db-5ab9-4770-f549675d8a9e
