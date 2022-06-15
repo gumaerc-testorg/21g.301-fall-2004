@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -71,9 +72,9 @@ In the _Cahier d'activités_: ex. 0-9, 0-10, 0-11 p. 64 and ex. 0-12, 0-13, 0-14
 In-Class Activities for the Chapitre Préliminaire
 -------------------------------------------------
 
-*   1st day activity: On lit un journal français ([PDF]({{< baseurl >}}/resources/mit21g_301f04_ch_pre_ex1))
-*   Rencontres dans la rue ([PDF]({{< baseurl >}}/resources/mit21g_301f04_ch_pre_ex1))
-*   Mes jours et mes mois préférés ([PDF]({{< baseurl >}}/resources/mit21g_301f04_ch_pre_ex2))
+*   1st day activity: On lit un journal français ({{% resource_link 0a7220ef-22f6-6409-ec8c-eae310ea6556 "PDF" %}})
+*   Rencontres dans la rue ({{% resource_link 0a7220ef-22f6-6409-ec8c-eae310ea6556 "PDF" %}})
+*   Mes jours et mes mois préférés ({{% resource_link 67c7922c-166d-29db-b281-f977b5855120 "PDF" %}})
 
 {{< tableopen >}}
 {{< tropen >}}
@@ -161,9 +162,9 @@ Aural comprehension exercises for the Chapitre Préliminaire and Chapitre 1 ar
 In-Class Activities for Chapter 1
 ---------------------------------
 
-*   Bonjour.. salut.. bonjour Madame ([PDF]({{< baseurl >}}/resources/mit21g_301f04_ch1_ex1))
-*   Je cherche quelqu'un qui ([PDF]({{< baseurl >}}/resources/mit21g_301f04_ch1_ex2))
-*   Etes-vous compatibles? ([PDF]({{< baseurl >}}/resources/mit21g_301f04_ch1_ex3))
+*   Bonjour.. salut.. bonjour Madame ({{% resource_link 667aea18-25ed-824c-181d-c7185eb773ee "PDF" %}})
+*   Je cherche quelqu'un qui ({{% resource_link 22e236fd-ce4f-feb2-35bc-579e74f58457 "PDF" %}})
+*   Etes-vous compatibles? ({{% resource_link 6641390a-978a-5766-0b60-0b218aa7d517 "PDF" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -254,9 +255,9 @@ Oral comprehension exercises for chapter 2 are DUE today.
 In-Class Activities for Chapter 2
 ---------------------------------
 
-*   Avoir ou ne pas avoir? ([PDF]({{< baseurl >}}/resources/mit21g_301f04_ch2_ex1))
-*   Des dates importantes ([PDF]({{< baseurl >}}/resources/mit21g_301f04_ch2_ex2))
-*   Les Francophones de votre livre ([PDF]({{< baseurl >}}/resources/mit21g_301f04_ch2_ex3))
+*   Avoir ou ne pas avoir? ({{% resource_link 8327631f-4daa-a0d5-b4da-af0065ec5c51 "PDF" %}})
+*   Des dates importantes ({{% resource_link 1d80a5d9-bddd-2b3e-80e7-e8b2b2ac6252 "PDF" %}})
+*   Les Francophones de votre livre ({{% resource_link 9b1d9b57-4465-6365-e070-36089b53a742 "PDF" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -349,10 +350,10 @@ Oral comprehension exercises DUE today.
 In-Class Activities for Chapter 3
 ---------------------------------
 
-*   Quel temps fait-il chez vous? ([PDF]({{< baseurl >}}/resources/mit21g_301f04_ch3_ex1))
-*   Un week-end de rêve? ([PDF]({{< baseurl >}}/resources/mit21g_301f04_ch3_ex2))
-*   Une carte postale ([PDF]({{< baseurl >}}/resources/mit21g_301f04_ch3_ex3))
-*   Ma journée en français: la Corse (vidéo) ([PDF]({{< baseurl >}}/resources/mit21g_301f04_ch3_ex4))
+*   Quel temps fait-il chez vous? ({{% resource_link 48aa447c-f0e2-67ce-f49b-517bbfe2d749 "PDF" %}})
+*   Un week-end de rêve? ({{% resource_link 5a5ccb76-3cf0-4ae4-c7a4-75dd5ea034ac "PDF" %}})
+*   Une carte postale ({{% resource_link 3dacabc2-0f0c-23be-2868-9a2740d04808 "PDF" %}})
+*   Ma journée en français: la Corse (vidéo) ({{% resource_link 81207fe2-b9b8-5ded-7618-187aece10254 "PDF" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -445,9 +446,9 @@ Oral comprehension exercises DUE today.
 In-Class Activities for Chapter 4
 ---------------------------------
 
-*   Emplois du temps ([PDF]({{< baseurl >}}/resources/mit21g_301f04_ch4_ex1))
-*   La journée du Roi Soleil ([PDF]({{< baseurl >}}/resources/mit21g_301f04_ch4_ex2))
-*   Visitons un quartier de Paris ([PDF]({{< baseurl >}}/resources/mit21g_301f04_ch4_ex3))
+*   Emplois du temps ({{% resource_link fde41398-66d7-2378-00bc-30c3b503b903 "PDF" %}})
+*   La journée du Roi Soleil ({{% resource_link 35315516-1d81-4020-3dc5-2e7cad9bafde "PDF" %}})
+*   Visitons un quartier de Paris ({{% resource_link 7353100f-2c7a-73fc-30e4-f7fd59d2dcb1 "PDF" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -552,9 +553,9 @@ Oral comprehension exercises DUE today.
 In-Class Activities for Chapter 5
 ---------------------------------
 
-*   Une association pas comme les autres ([PDF]({{< baseurl >}}/resources/mit21g_301f04_ch5_ex1))
-*   Mes activités du week-end passé ([PDF]({{< baseurl >}}/resources/mit21g_301f04_ch5_ex2))
-*   Je me déguise: qui suis-je? ([PDF]({{< baseurl >}}/resources/mit21g_301f04_ch5_ex3))
+*   Une association pas comme les autres ({{% resource_link e7d88d36-fa78-6919-93e1-8fd77ffe6943 "PDF" %}})
+*   Mes activités du week-end passé ({{% resource_link 2f13f8e2-2644-3021-95ca-658b5accb874 "PDF" %}})
+*   Je me déguise: qui suis-je? ({{% resource_link 30956c47-1660-9af8-c3f8-7edc04f37553 "PDF" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -639,9 +640,9 @@ Oral comprehension exercises DUE today.
 In-Class Activities for Chapter 6
 ---------------------------------
 
-*   Mes lieux favoris ([PDF]({{< baseurl >}}/resources/mit21g_301f04_ch6_ex1))
-*   Je cherche un co-locataire ([PDF]({{< baseurl >}}/resources/mit21g_301f04_ch6_ex2))
-*   On visite des appartements à Paris ([PDF]({{< baseurl >}}/resources/mit21g_301f04_ch6_ex3))
+*   Mes lieux favoris ({{% resource_link d0ea66f6-7c68-f4c9-004e-13a2b02c432c "PDF" %}})
+*   Je cherche un co-locataire ({{% resource_link 38f64cad-a441-3415-c3b8-c8e82331fc25 "PDF" %}})
+*   On visite des appartements à Paris ({{% resource_link 7ac39676-61f8-5374-04ad-cdbdc25b7910 "PDF" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -705,7 +706,7 @@ Dans le _Cahier d'activités_, faites: ex. 7-14, 7-15, 7-16, 7-17 pp. 145-147.
 45
 {{< tdclose >}}
 {{< tdopen >}}
-A RENDRE: Journal de vacances ([PDF]({{< baseurl >}}/resources/mit21g_301f04_vacances))
+A RENDRE: Journal de vacances ({{% resource_link 9b9b1ccd-d4db-5ab9-4770-f549675d8a9e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -735,8 +736,8 @@ ALL WRITTEN WORK for this chapter DUE TODAY.
 In-Class Activities for Chapter 7
 ---------------------------------
 
-*   Interview: des questions indiscrètes? ([PDF]({{< baseurl >}}/resources/mit21g_301f04_ch7_ex1))
-*   Interview: les goûts alimentaires de vos camarades ([PDF]({{< baseurl >}}/resources/mit21g_301f04_ch7_ex2))
-*   On organise un dîner pour le prof. de français ([PDF]({{< baseurl >}}/resources/mit21g_301f04_ch7_ex3))
+*   Interview: des questions indiscrètes? ({{% resource_link 57e49aff-5449-ecc1-7479-856ecee6f658 "PDF" %}})
+*   Interview: les goûts alimentaires de vos camarades ({{% resource_link a962b019-9f94-4932-27b6-26d56441e4fe "PDF" %}})
+*   On organise un dîner pour le prof. de français ({{% resource_link b7b580e6-447e-b5cd-de45-3357b6858b39 "PDF" %}})
 
 C'est la fin du semestre! Au revoir et bonnes vacances!
