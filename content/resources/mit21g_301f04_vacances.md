@@ -5,6 +5,7 @@ file: /courses/21g-301-french-i-fall-2004/9b9b1ccdd4db5ab94770f549675d8a9e_MIT21
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Journal de vacances
 uid: 9b9b1ccd-d4db-5ab9-4770-f549675d8a9e
 ---
 This resource contains the information regarding in class activities.
-
