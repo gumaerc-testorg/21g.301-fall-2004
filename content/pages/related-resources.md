@@ -1,14 +1,13 @@
 ---
 content_type: page
-description: ''
+description: Related resources are listed on this page
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 73312e29-6ad9-c115-9af8-7d7fa5ac4489
 ---
-
-General Sites
--------------
+## General Sites
 
 ### LLARC (Language Learning and Resource Center)
 
@@ -26,8 +25,7 @@ General Sites
 
 [International Film Club](http://web.mit.edu/ifilm/www)
 
-On-line Tools for Learning
---------------------------
+## On-line Tools for Learning
 
 ### Dictionnaires français-anglais
 
@@ -57,8 +55,7 @@ On-line Tools for Learning
 
 [Conjuin(s) - Online French Verb Conjugator](http://www.tatsuto.com/conjuin/)
 
-Web Sites Associated With Chapters
-----------------------------------
+## Web Sites Associated With Chapters
 
 ### Chapter 1: Premiers Contacts
 
@@ -72,7 +69,7 @@ Web Sites Associated With Chapters
 
 [Université Laval](http://www.ulaval.ca/)
 
-_Chapter_ _2: On Rejoint La Communauté_ _Francophone_
+*Chapter* *2: On Rejoint La Communauté* *Francophone*
 
 [Carte du Monde francophone](https://web.archive.org/web/20070101054448/http://www.diplomatie.gouv.fr/fr/thematiques_830/francophonie-langue-francaise_1040/francophonie_3026/francais-dans-monde_11936/carte-du-monde-francophone_6513.html)
 
@@ -90,8 +87,6 @@ _Chapter_ _2: On Rejoint La Communauté_ _Francophone_
 
 [Le provinces de France](http://www.tourisme.fr)
 
-[Clickable Map of France](http://www.crwflags.com/fotw/flags/fr(.html)
-
 [Images des châteaux de la Loire](https://artsandculture.google.com/project/loire-castles)
 
 [Château de Blois](http://www.chateaudeblois.fr/)
@@ -99,6 +94,8 @@ _Chapter_ _2: On Rejoint La Communauté_ _Francophone_
 [Les climats de la France](http://www.histgeo.ac-aix-marseille.fr/enseign/houot/france/frclim.htm)
 
 [La météo](http://www.meteofrance.com/FR/mameteo/prevPays.jsp?LIEUID=FRANCE)
+
+Clickable Map of France
 
 ### Chapter 4: La Ville et Le Quartier
 
@@ -110,8 +107,7 @@ _Chapter_ _2: On Rejoint La Communauté_ _Francophone_
 
 [Un quartier de Narbonne et ses commerçants](http://www.voltaire-joffre.com/)
 
-[Le quartier Petit Champlain à Québec](http://web.archive.org/web/20070405212506/http://www.quartier-petit-champlain.qc.ca/
-)
+[Le quartier Petit Champlain à Québec](http://web.archive.org/web/20070405212506/http://www.quartier-petit-champlain.qc.ca/)
 
 [La Suisse](http://www.myswitzerland.com/map/?lang=fr)
 
@@ -125,7 +121,7 @@ Une montre suisse
 
 [Astérix le Gaulois](http://www.asterix.tm.fr/)
 
-[Le Vietnam](http://www.atlasgeo.net/htmlg/Vietnam.htm)
+Le Vietnam
 
 [Sites historiques du Viêt-nam](http://perso.club-internet.fr/gilkergu/)
 
@@ -163,7 +159,6 @@ Une montre suisse
 
 [Les plats préférés des Français](http://www.tns-sofres.com/)
 
-[Le Bénin](https://www.cia.gov/library/publications/the-world-factbook/geos/bn.html
-)
+[Le Bénin](https://www.cia.gov/library/publications/the-world-factbook/geos/bn.html)
 
 [Portail du Gouvernement du Bénin](http://www.gouv.bj/#)
