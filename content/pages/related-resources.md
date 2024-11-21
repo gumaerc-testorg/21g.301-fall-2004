@@ -21,10 +21,6 @@ uid: 73312e29-6ad9-c115-9af8-7d7fa5ac4489
 
 [MIT Club francophone](http://web.mit.edu/francophone/www/index.html)
 
-### Films at MIT
-
-[International Film Club](http://web.mit.edu/ifilm/www)
-
 ## On-line Tools for Learning
 
 ### Dictionnaires français-anglais
@@ -45,7 +41,7 @@ uid: 73312e29-6ad9-c115-9af8-7d7fa5ac4489
 
 [Tex's French Grammar](http://www.laits.utexas.edu/tex/gr/)
 
-[Free French Lessons](http://www.france-pub.com/french/index.html)
+[Free French Lessons](https://web.archive.org/web/20040718013838/http://www.france-pub.com/french/index.html)
 
 ### Pronunciation
 
@@ -85,13 +81,13 @@ uid: 73312e29-6ad9-c115-9af8-7d7fa5ac4489
 
 ### Chapter 3: Tour De France
 
-[Le provinces de France](http://www.tourisme.fr)
+[Le provinces de France](http://www.tourisme.fr/)
 
 [Images des châteaux de la Loire](https://artsandculture.google.com/project/loire-castles)
 
 [Château de Blois](http://www.chateaudeblois.fr/)
 
-[Les climats de la France](http://www.histgeo.ac-aix-marseille.fr/enseign/houot/france/frclim.htm)
+Les climats de la France
 
 [La météo](http://www.meteofrance.com/FR/mameteo/prevPays.jsp?LIEUID=FRANCE)
 
@@ -103,7 +99,7 @@ Clickable Map of France
 
 [Le quartier de l'Opéra à Paris](https://web.archive.org/web/20150524032219/http://www.insecula.com/zone/Z0007337.html)
 
-[Les arrondissements de Paris](http://www.pariszoom.com/)
+Les arrondissements de Paris
 
 [Un quartier de Narbonne et ses commerçants](http://www.voltaire-joffre.com/)
 
@@ -119,11 +115,11 @@ Une montre suisse
 
 ### Chapter 5: Des Gens De Toutes Sortes
 
-[Astérix le Gaulois](http://www.asterix.tm.fr/)
+Astérix le Gaulois
 
 Le Vietnam
 
-[Sites historiques du Viêt-nam](http://perso.club-internet.fr/gilkergu/)
+Sites historiques du Viêt-nam
 
 [Le cinéma vietnamien](https://culture360.asef.org/resources/le-cinema-vietnamien-vietnamese-cinema/)
 
@@ -159,6 +155,6 @@ Le Vietnam
 
 [Les plats préférés des Français](http://www.tns-sofres.com/)
 
-[Le Bénin](https://www.cia.gov/library/publications/the-world-factbook/geos/bn.html)
+Le Bénin
 
 [Portail du Gouvernement du Bénin](http://www.gouv.bj/#)
