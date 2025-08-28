@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding in class activities.
-file: /courses/21g-301-french-i-fall-2004/0a7220ef22f66409ec8ceae310ea6556_MIT21G_301F04_ch_pre_ex1.pdf
+file: /ol-ocw-studio-app/courses/21g-301-french-i-fall-2004/0a7220ef22f66409ec8ceae310ea6556_MIT21G_301F04_ch_pre_ex1.pdf
 file_size: 98919
 file_type: application/pdf
 learning_resource_types:
