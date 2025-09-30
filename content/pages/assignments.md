@@ -496,11 +496,11 @@ Dans le _Cahier d'activités_, faites: ex. 5-15, 5-16, 5-17 pp. 120-122.
   
 Sources supplémentaires et liens utiles:  
   
-[Le Viêt-nam](http://web.archive.org/web/20060516142949/http://www.atlasgeo.net/)  
+{{% resource_link "9ede56b9-7035-4b2f-9883-168966fa35d5" "Le Viêt-nam" %}}  
   
-[Sites historiques du Viêt-nam](http://web.archive.org/web/20040607053916/http://perso.club-internet.fr/gilkergu/)  
+{{% resource_link "272bd157-6b98-438d-ba35-9c3c19bb20bc" "Sites historiques du Viêt-nam" %}}  
   
-[Le cinéma vietnamien](http://cinema.arte.tv/fr/search/site/vietnamien)
+{{% resource_link "25369c02-5ba8-4e5c-9d26-53f125a290ce" "Le cinéma vietnamien" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
