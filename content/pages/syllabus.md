@@ -61,7 +61,7 @@ _Additional Preparation and Resources_
 *   Do as many of the CD-ROM activities as you wish (they will be optional but they do provide good reinforcement).
 *   Listen to the vocabulary cassettes/audio CDs. They offer very good pronunciation practice.
 *   A French tutor will be available during the semester to provide you with help in pronunciation and writing (more information will be available on this subject soon).
-*   Please check the {{% resource_link "9beaf7f1-15ba-4203-91a7-89031ddda38f" "MIT French web page" %}} for regular updates on the program, French resources, as well as useful information about available French grants and fellowships for both undergraduate and graduate students.
+*   Please check the [MIT French web page](https://mitgsl.mit.edu/academics/french-and-francophone-studies) for regular updates on the program, French resources, as well as useful information about available French grants and fellowships for both undergraduate and graduate students.
 
 _The LLARC (Language Learning and Resource Center)_
 
